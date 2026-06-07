@@ -24,6 +24,12 @@ Angular marketing website prototype for a carbon-credit services funnel.
 
 **Shows:** Angular, TypeScript, landing-page structure, service routing, product messaging and conversion-oriented frontend work.
 
+### [YogaClass Platform](https://github.com/augusv123/yogaclass-platform)
+
+Headless WordPress + Angular platform for online yoga classes, with free/premium content and a custom REST API plugin.
+
+**Shows:** Angular, WordPress headless architecture, PHP plugin development, auth/content APIs, premium access logic and deployment planning.
+
 ## Core stack
 
 - Frontend: Angular, React, TypeScript, JavaScript, HTML, CSS
