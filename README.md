@@ -1,0 +1,34 @@
+# Augusto Vidal
+
+Product-driven Full Stack Developer focused on JavaScript, TypeScript, Angular, React, Node.js, growth workflows and AI-assisted product delivery.
+
+I like working where product, engineering and marketing meet: turning business goals into web experiences, automation, analytics-ready flows and maintainable applications.
+
+## Portfolio highlights
+
+### [Nomadeo v2](https://github.com/augusv123/nomadeo-v2)
+
+Expo + Supabase travel planning MVP with trips, friends, public plans, invitations and shared expenses.
+
+**Shows:** product architecture, mobile delivery, Supabase, PostgreSQL, RLS, TypeScript and full-cycle MVP thinking.
+
+### [3Wheels AI WhatsApp Assistant](https://github.com/augusv123/3wheels-ai-assistant)
+
+AI-assisted WhatsApp automation for a vehicle rental funnel using Node.js, OpenAI, MCP and Docker.
+
+**Shows:** AI workflow design, API integration, customer funnel automation, backend services and operational deployment.
+
+### [Value Added Carbon](https://github.com/augusv123/value-added-carbon)
+
+Angular marketing website prototype for a carbon-credit services funnel.
+
+**Shows:** Angular, TypeScript, landing-page structure, service routing, product messaging and conversion-oriented frontend work.
+
+## Core stack
+
+- Frontend: Angular, React, TypeScript, JavaScript, HTML, CSS
+- Backend: Node.js, PHP, Laravel, REST APIs
+- Data: PostgreSQL, MySQL, MongoDB, Supabase
+- Growth: GA4, GTM, Google Search Console, Semrush, SEO, paid media coordination
+- AI workflow: Claude Code, GitHub Copilot, OpenAI API, prompt/system design
+- Delivery: GitHub, CI/CD, Docker, Agile/Scrum, async collaboration
