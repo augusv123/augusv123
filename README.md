@@ -30,10 +30,16 @@ Headless WordPress + Angular platform for online yoga classes, with free/premium
 
 **Shows:** Angular, WordPress headless architecture, PHP plugin development, auth/content APIs, premium access logic and deployment planning.
 
+### [Horibarbieri WordPress Portfolio](https://github.com/augusv123/horibarbieri-wordpress)
+
+Lightweight, installable WordPress portfolio package for a photography brand, focused on a custom Munio child theme and safe CMS handoff.
+
+**Shows:** WordPress child theme development, PHP templates, responsive editorial UI, quote-request flow, Docker setup and clean repo packaging for heavy CMS projects.
+
 ## Core stack
 
 - Frontend: Angular, React, TypeScript, JavaScript, HTML, CSS
-- Backend: Node.js, PHP, Laravel, REST APIs
+- Backend: Node.js, PHP, Laravel, WordPress, REST APIs
 - Data: PostgreSQL, MySQL, MongoDB, Supabase
 - Growth: GA4, GTM, Google Search Console, Semrush, SEO, paid media coordination
 - AI workflow: Claude Code, GitHub Copilot, OpenAI API, prompt/system design
